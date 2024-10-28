@@ -1,7 +1,25 @@
 [
   {
+    "name": "b💻b",
+    "url": "$SITE_3F7BCC21BCFB5A34E6A31FDA6502FBB005CC07894A23253D274667EAD237B9F7",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "b-b",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 536,
+    "timeDay": 536,
+    "timeWeek": 536,
+    "timeMonth": 536,
+    "timeYear": 536,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "a🤖a",
-    "url": "$SITE_F04303F111D8764BFC1E1109D357966CFD9DCFBBC9668B037853ADA760685E2E",
+    "url": "$SITE_918BD19863DD6CE4AD3AA93E3DC100247BC7A81492CA4360A5C84192650AE268",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-a",
     "status": "up",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 415,
-    "timeWeek": 415,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 382,
+    "timeDay": 382,
+    "timeWeek": 382,
+    "timeMonth": 382,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   }
 ]
