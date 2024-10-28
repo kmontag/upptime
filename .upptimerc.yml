@@ -16,7 +16,7 @@ sites:
 status-website:
   # Adjust the base URL for serving on a standard GH pages URL.
   baseUrl: /upptime
-  name: "Goat Upptime"
+  name: "Rift Upptime"
 
 # Don't manage repository metadata.
 skipDescriptionUpdate: true
