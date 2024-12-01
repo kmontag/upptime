@@ -1,25 +1,5 @@
 [
   {
-    "name": "b💻b",
-    "url": "$SITE_3F7BCC21BCFB5A34E6A31FDA6502FBB005CC07894A23253D274667EAD237B9F7",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "b-b",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "87.50%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.64%",
-    "time": 762,
-    "timeDay": 2126,
-    "timeWeek": 1111,
-    "timeMonth": 776,
-    "timeYear": 762,
-    "dailyMinutesDown": {
-      "2024-12-01": 180
-    }
-  },
-  {
     "name": "a🤖a",
     "url": "$SITE_918BD19863DD6CE4AD3AA93E3DC100247BC7A81492CA4360A5C84192650AE268",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -30,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 300,
-    "timeWeek": 314,
-    "timeMonth": 325,
-    "timeYear": 341,
+    "time": 339,
+    "timeDay": 287,
+    "timeWeek": 308,
+    "timeMonth": 323,
+    "timeYear": 339,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "b💻b",
+    "url": "$SITE_3F7BCC21BCFB5A34E6A31FDA6502FBB005CC07894A23253D274667EAD237B9F7",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "b-b",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "87.08%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.63%",
+    "time": 762,
+    "timeDay": 2126,
+    "timeWeek": 1111,
+    "timeMonth": 776,
+    "timeYear": 762,
+    "dailyMinutesDown": {
+      "2024-12-01": 186
+    }
   },
   {
     "name": "c👩‍⚕️c",
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-c",
     "status": "down",
-    "uptime": "10.11%",
-    "uptimeDay": "10.11%",
-    "uptimeWeek": "10.11%",
-    "uptimeMonth": "10.11%",
-    "uptimeYear": "10.11%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-01": 0
+      "2024-12-01": 6
     }
   }
 ]
