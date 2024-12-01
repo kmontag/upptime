@@ -15,6 +15,9 @@ sites:
   - name: "a🤖a"
     url: "$SITE_918BD19863DD6CE4AD3AA93E3DC100247BC7A81492CA4360A5C84192650AE268"
   # 
+  - name: "c👩‍⚕️c"
+    url: "$SITE_C974383D9693E35D92F1F53E2E987960CAA616CA22CCD7D5A79C120EE45C1E3C"
+  # 
 
 status-website:
   # Adjust the base URL for serving on a standard GH pages URL.
