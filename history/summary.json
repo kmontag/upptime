@@ -22,17 +22,17 @@
     "url": "$SITE_3F7BCC21BCFB5A34E6A31FDA6502FBB005CC07894A23253D274667EAD237B9F7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-b",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "67.05%",
+    "uptimeDay": "67.03%",
     "uptimeWeek": "95.29%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.07%",
-    "time": 950,
-    "timeDay": 1961,
-    "timeWeek": 1484,
-    "timeMonth": 986,
-    "timeYear": 950,
+    "time": 941,
+    "timeDay": 1841,
+    "timeWeek": 1430,
+    "timeMonth": 975,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2024-12-02": 270,
       "2024-12-01": 204
@@ -55,7 +55,7 @@
     "timeMonth": 4302,
     "timeYear": 4302,
     "dailyMinutesDown": {
-      "2024-12-02": 861,
+      "2024-12-02": 868,
       "2024-12-01": 106
     }
   }
