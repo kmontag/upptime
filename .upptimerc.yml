@@ -28,3 +28,7 @@ status-website:
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
+
+# Don't delete issues that were open for less than 15 minutes - we
+# want to get notifications that they were resolved.
+skipDeleteIssues: true
