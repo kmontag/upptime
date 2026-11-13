@@ -42,19 +42,19 @@
     "url": "$SITE_C974383D9693E35D92F1F53E2E987960CAA616CA22CCD7D5A79C120EE45C1E3C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-c",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 6745,
-    "timeDay": 6384,
-    "timeWeek": 9003,
-    "timeMonth": 8976,
-    "timeYear": 6975,
+    "time": 6726,
+    "timeDay": 5158,
+    "timeWeek": 8303,
+    "timeMonth": 8786,
+    "timeYear": 6964,
     "dailyMinutesDown": {
-      "2026-11-13": 0
+      "2026-11-13": 5
     }
   }
 ]
