@@ -44,23 +44,23 @@
     "url": "$SITE_C974383D9693E35D92F1F53E2E987960CAA616CA22CCD7D5A79C120EE45C1E3C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-c",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
-    "time": 6831,
-    "timeDay": 7507,
-    "timeWeek": 8055,
-    "timeMonth": 8625,
-    "timeYear": 7069,
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 6834,
+    "timeDay": 9416,
+    "timeWeek": 8136,
+    "timeMonth": 8637,
+    "timeYear": 7075,
     "dailyMinutesDown": {
       "2026-11-13": 5,
       "2026-11-15": 6,
       "2026-11-21": 6,
       "2026-11-22": 7,
-      "2026-11-23": 0
+      "2026-11-23": 7
     }
   }
 ]
