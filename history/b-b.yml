@@ -1,7 +1,7 @@
 url: $SITE_3F7BCC21BCFB5A34E6A31FDA6502FBB005CC07894A23253D274667EAD237B9F7
-status: down
-code: 503
-responseTime: 997
-lastUpdated: 2026-11-23T22:12:02.306Z
+status: up
+code: 200
+responseTime: 576
+lastUpdated: 2026-11-23T22:20:37.609Z
 startTime: 2024-10-28T03:15:34.872Z
 generator: Upptime <https://github.com/upptime/upptime>
