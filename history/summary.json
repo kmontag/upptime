@@ -24,21 +24,21 @@
     "url": "$SITE_3F7BCC21BCFB5A34E6A31FDA6502FBB005CC07894A23253D274667EAD237B9F7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-b",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 721,
-    "timeWeek": 577,
-    "timeMonth": 599,
+    "timeDay": 707,
+    "timeWeek": 583,
+    "timeMonth": 600,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2026-11-21": 8,
       "2026-11-23": 9,
-      "2026-11-24": 3
+      "2026-11-24": 9
     }
   },
   {
