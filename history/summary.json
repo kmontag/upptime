@@ -24,13 +24,13 @@
     "url": "$SITE_3F7BCC21BCFB5A34E6A31FDA6502FBB005CC07894A23253D274667EAD237B9F7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b-b",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 736,
+    "time": 737,
     "timeDay": 10303,
     "timeWeek": 4169,
     "timeMonth": 2178,
@@ -39,7 +39,7 @@
       "2026-11-21": 8,
       "2026-11-23": 9,
       "2026-11-24": 9,
-      "2026-11-26": 38
+      "2026-11-26": 41
     }
   },
   {
@@ -49,9 +49,9 @@
     "slug": "c-c",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "92.38%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "91.28%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.97%",
     "time": 7021,
     "timeDay": 16183,
@@ -66,7 +66,7 @@
       "2026-11-23": 19,
       "2026-11-24": 9,
       "2026-11-25": 27,
-      "2026-11-26": 83
+      "2026-11-26": 99
     }
   }
 ]
